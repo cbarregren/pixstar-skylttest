@@ -4,15 +4,15 @@
     <title>Skylttest</title>
     <link>https://cbarregren.github.io/pixstar-skylttest/</link>
     <description>Testflöde för dörrskylt</description>
-    <lastBuildDate>Fri, 13 Nov 2026 11:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 11:55:12 +0000</lastBuildDate>
     <item>
       <title>Skylt</title>
-      <link>https://cbarregren.github.io/pixstar-skylttest/skylt-a.jpg</link>
-      <guid isPermaLink="true">https://cbarregren.github.io/pixstar-skylttest/skylt-a.jpg</guid>
-      <pubDate>Fri, 13 Nov 2026 11:20:20 +0000</pubDate>
+      <link>https://cbarregren.github.io/pixstar-skylttest/skylt-b.jpg</link>
+      <guid isPermaLink="true">https://cbarregren.github.io/pixstar-skylttest/skylt-b.jpg</guid>
+      <pubDate>Fri, 13 Nov 2026 11:55:12 +0000</pubDate>
       <description>Dörrskylt</description>
-      <media:content url="https://cbarregren.github.io/pixstar-skylttest/skylt-a.jpg" type="image/jpeg" width="1024" height="768" duration="15" medium="image" />
-      <enclosure url="https://cbarregren.github.io/pixstar-skylttest/skylt-a.jpg" length="69075" type="image/jpeg" />
+      <media:content url="https://cbarregren.github.io/pixstar-skylttest/skylt-b.jpg" type="image/jpeg" width="1024" height="768" duration="15" medium="image" />
+      <enclosure url="https://cbarregren.github.io/pixstar-skylttest/skylt-b.jpg" length="69812" type="image/jpeg" />
     </item>
   </channel>
 </rss>
